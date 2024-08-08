@@ -1,5 +1,9 @@
-###The AID30 dataset is located at https://opendatalab.org.cn/OpenDataLab/AID. 
+###The AID30 dataset is located at https://opendatalab.org.cn/OpenDataLab/AID
 
-###The NWPU45 dataset is located at https://opendatalab.org.cn/OpenDataLab/NWPU_Data_Set. 
+###The NWPU45 dataset is located at https://opendatalab.org.cn/OpenDataLab/NWPU_Data_Set 
 
-###The AFGR50 dataset is located at https://github.com/wgqqgw/BIT-KTYG-AFGR.
+###The AFGR50 dataset is located at https://github.com/wgqqgw/BIT-KTYG-AFGR
+
+###The NWPU_VHR-10 dataset is located at https://opendatalab.org.cn/OpenDataLab/NWPU_VHR-10
+
+###The DIOR20 dataset is locatied at https://opendatalab.org.cn/OpenDataLab/DIOR
