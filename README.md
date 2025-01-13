@@ -11,3 +11,10 @@ The experiments in this study were conducted on Nvidia 4070Ti-Super GPUs, utiliz
 Usage:
 Download all files without changing the file paths and directories.
 Use Jupyter Notebook to run the code_for_validation_ESE.ipynb file.
+
+Due to storage space limitations, only some model weight files have been uploaded. However, the authors will share all source codes after the paper is published. 
+
+Notice
+PLEASE ENSURE THAT THIS TECHNOLOGY IS NOT USED FOR MILITARY PURPOSES.
+
+THE SOURCE CODE CAN BE REQUESTED FOR REASONABLE REASONS.
