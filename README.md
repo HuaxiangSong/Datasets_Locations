@@ -14,7 +14,12 @@ Download all files without changing the file paths and directories. Put the weig
 Use Jupyter Notebook to run the code_for_validation_ESE.ipynb file.
 
 # Important
-Due to storage space limitations, only some model weight files have been uploaded. However, the authors will share all source codes after the paper is published. 
+Due to storage space limitations, only some model weight files have been uploaded in this site. 
+However, all the weights for NWPU45 were packed in weights.7z, which can be downloaded in this link: 
+https://pan.baidu.com/s/1KqxQcDJuY9ZMufqMNRj6JQ?pwd=u2u8 
+verification code for the link if necessary: u2u8
+
+Furthermore, the authors will share all source codes after the paper is published. 
 
 # Notice
 PLEASE ENSURE THAT THIS TECHNOLOGY IS NOT USED FOR MILITARY PURPOSES.
